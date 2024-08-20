@@ -7,9 +7,6 @@
 ## Sobre Mim
 Sou Gustavo, um apaixonado por tecnologia, atualmente cursando o quarto semestre de Ciência da Computação. Trabalho como desenvolvedor na T-Systems, contribuindo em projetos inovadores para a Mercedes-Benz, onde tenho a oportunidade de aplicar o que aprendo na universidade em desafios do mundo real. Sou movido pela curiosidade e pelo desejo constante de aprender e me aperfeiçoar.
 
-## O Que Me Move
-Acredito no poder transformador da tecnologia e como ela pode impactar positivamente a vida das pessoas. Cada desafio que encontro é uma nova oportunidade de crescimento, e encaro cada projeto como uma chance de criar soluções que realmente façam a diferença. Meu foco está em resolver problemas complexos e em explorar novas tecnologias para aprimorar minhas habilidades e entregar o melhor resultado possível.
-
 ## Habilidades
 Tenho experiência com diversas tecnologias e estou sempre buscando aprender mais para oferecer soluções eficazes em cada projeto:
 
