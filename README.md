@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Gustavo Almeida
 
-### 🎓 Estudante de Ciência da Computação | 💼 Desenvolvedor na T-Systems
+### 🎓 Estudante de Ciência da Computação | 💼 Estagiário de Desenvolvimento
 
 ---
 
