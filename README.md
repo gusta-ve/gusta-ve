@@ -16,7 +16,7 @@ Tenho experiência com diversas tecnologias e estou sempre buscando aprender mai
 - **Ferramentas**: Visual Studio Code, Docker, Git
 
 ## Projetos no GitHub
-No meu GitHub, você vai encontrar desde projetos pessoais, onde experimento novas ideias e tecnologias, até contribuições profissionais que mostram o meu comprometimento com o desenvolvimento de soluções de alta qualidade. Cada repositório e/ou organização representa um passo na minha jornada de aprendizado e inovação.
+No meu GitHub, você vai encontrar desde projetos pessoais, onde experimento novas ideias e tecnologias, até contribuições profissionais que mostram o meu comprometimento com o desenvolvimento de soluções de alta qualidade. Cada repositório e organização representa um passo na minha jornada de aprendizado e inovação.
 
 ## Conecte-se Comigo
 Estou sempre aberto a trocar ideias e aprender com outros profissionais. Se quiser conversar sobre tecnologia, projetos ou simplesmente compartilhar experiências, será um prazer falar com você:
