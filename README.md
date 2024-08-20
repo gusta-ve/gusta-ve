@@ -24,7 +24,7 @@ No meu GitHub, você vai encontrar desde projetos pessoais, onde experimento nov
 ## Conecte-se Comigo
 Estou sempre aberto a trocar ideias e aprender com outros profissionais. Se quiser conversar sobre tecnologia, projetos ou simplesmente compartilhar experiências, será um prazer falar com você:
 
-- **LinkedIn**: [Gustavo Almeida](https://www.linkedin.com/in/seuperfil)
+- **LinkedIn**: [Gustavo Almeida](https://www.linkedin.com/in/gustavo-almeida-moura/)
 - **Email**: gustavoalm1@live.com
 
 ---
