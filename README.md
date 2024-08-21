@@ -12,8 +12,8 @@ Tenho experiência com diversas tecnologias e estou sempre buscando aprender mai
 
 - **Linguagens**: C#, Python, JavaScript
 - **Frameworks**: ASP.NET Core, Flask, React
-- **Banco de Dados**: PostgreSQL, CouchDB
-- **Ferramentas**: Visual Studio Code, Docker, Git
+- **Banco de Dados**: PostgreSQL, CouchDB, MySQL, SQL Server
+- **Ferramentas**: Visual Studio Code, Docker, Git, GitHub, GitLab, VirtualBox
 
 ## Projetos no GitHub
 No meu GitHub, você vai encontrar desde projetos pessoais, onde experimento novas ideias e tecnologias, até contribuições profissionais que mostram o meu comprometimento com o desenvolvimento de soluções de alta qualidade. Cada repositório e organização representa um passo na minha jornada de aprendizado e inovação.
