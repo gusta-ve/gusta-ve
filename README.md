@@ -14,7 +14,7 @@ Tenho experiência com diversas tecnologias e estou sempre buscando aprender mai
 - **Frameworks**: ASP.NET Core, Flask, React
 - **Banco de Dados**: PostgreSQL, CouchDB, MySQL, SQL Server
 - **Ferramentas**: Visual Studio Code, Docker, Git, GitHub, GitLab, VirtualBox
-- 
+ 
 ## Conecte-se Comigo
 Estou sempre aberto a trocar ideias e aprender com outros profissionais. Se quiser conversar sobre tecnologia, projetos ou simplesmente compartilhar experiências, será um prazer falar com você:
 
